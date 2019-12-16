@@ -274,6 +274,11 @@ a:hover {
   margin-bottom: 20px;
 }
 
+.font-preview__image {
+  width: 100%;
+  height: auto;
+}
+
 @media (min-width: 400px) {
   .idea {
     width: 50%;
@@ -290,6 +295,11 @@ a:hover {
 
   .idea:nth-child(even) {
     padding-left: 15px;
+  }
+
+  .page-heading-image {
+    margin-top: 30px;
+    margin-bottom: 20px;
   }
 }
 
