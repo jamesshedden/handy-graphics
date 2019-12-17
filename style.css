@@ -225,6 +225,11 @@ a:hover {
   color: #E86457;
 }
 
+.pricing-disclaimer {
+  font-size: 12px;
+  color: #BCB0AF;
+}
+
 /* .product {
   width: 50%;
   display: inline-block;
